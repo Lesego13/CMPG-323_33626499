@@ -25,7 +25,7 @@ Strategy will be futher updated upon & thoughout the implementaion of project 5
 ## .gitinore File
 
 
-# Project 4
+## Project 4
 ## Repository: Flex Mobile Phone Company Testing
 ## Brancing Strategy
 
