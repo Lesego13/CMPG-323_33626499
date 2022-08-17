@@ -22,12 +22,12 @@ Strategy will be futher updated upon & thoughout the implementaion of project 5
 # Branching Strategy
 
 Strategy will be futher updated upon & thoughout the implementaion of project 5
-# .gitinore File
+## .gitinore File
 
 
 # Project 4
 ## Repository: Design Room Testing
-## Brancing S
+## Brancing Strategy
 
 Strategy will be futher updated upon & thoughout the implementaion of project 5
 
@@ -37,8 +37,12 @@ Strategy will be futher updated upon & thoughout the implementaion of project 5
 
 ## Branching Strategy
 
-# .gitinore File
+Strategy will be futher updated upon & thoughout the implementaion of project 5
+
+## .gitinore File
+
+
 # Security
 
 
-# .gitinore File
+## .gitinore File
