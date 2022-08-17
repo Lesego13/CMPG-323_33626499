@@ -17,9 +17,9 @@ Strategy will be futher updated upon & thoughout the implementaion of project 5
 ## .gitinore File
 # Project 3
 
-# Repository: Design Room Design Patterns
+## Repository: Design Room Design Patterns
 
-# Branching Strategy
+## Branching Strategy
 
 Strategy will be futher updated upon & thoughout the implementaion of project 5
 ## .gitinore File
