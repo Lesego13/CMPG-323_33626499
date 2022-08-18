@@ -44,8 +44,8 @@ Strategy will be futher updated upon & thoughout the implementaion of project 5
 ## .gitinore File
 # Security
 
-### User to only have access to the phone database and not the customers database
-### User must create a profile(sign in with your email and password) to prevent an individual from accessing your cart
-### Take inventory and back up data Regularly
+#### User to only have access to the phone database and not the customers database
+#### User must create a profile(sign in with your email and password) to prevent an individual from accessing your cart
+#### Take inventory and back up data Regularly
 
 ## .gitinore File
