@@ -8,6 +8,8 @@
 
 Check the setup overview of Github
 
+## .gitinore File
+
 # Project 2
 ## Repository : Flex Mobile Phone Company API
 
