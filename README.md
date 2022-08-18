@@ -30,7 +30,7 @@ Strategy will be futher updated upon & thoughout the implementaion of project 4
 
 ## .gitinore File
 
-#Project 5
+# Project 5
 
 ## Repository: Flex Mobile Phone Company Mionitor & Report 
 
