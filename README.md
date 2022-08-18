@@ -6,7 +6,7 @@
 
 ## Branching Strategy
 
-Check the setup overview of Github
+See the setup overview of Github
 
 ## .gitinore File
 
