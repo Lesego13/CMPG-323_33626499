@@ -21,10 +21,14 @@ Strategy will be futher updated upon & thoughout the implementaion of project 2
 Strategy will be futher updated upon & thoughout the implementaion of project 3
 
 ## .gitinore File
-## Project 4
+
+# Project 4
+
 ## Repository: Flex Mobile Phone Company Testing
 ## Brancing Strategy
 Strategy will be futher updated upon & thoughout the implementaion of project 4
+
+## .gitinore File
 
 #Project 5
 
