@@ -4,13 +4,14 @@
 
 # Project 1
 
-
+## Branching Strategy
+See 
 
 # Project 2
 ## Repository : Flex Mobile Phone Company API
 
 ## Branching Strategy
-Strategy will be futher updated upon & thoughout the implementaion of project 2
+Strategy that will be implemented in this project is Git Flow since it is great for enterprise customers who need to adhere to release plans and workflows
 
 ## .gitinore File
 # Project 3
